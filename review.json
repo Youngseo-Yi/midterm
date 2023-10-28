@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "dorm": "Carmichael Hall",
+        "rating": 3,
+        "comments": "I would rate Carmichael a 3 out of 5. This is mostly because of the convenience of having a dining hall located in the dorm itself. Apart from that, the living situation is not too bad. The rooms are larger than the ones in the other dorms. The common room is large and has a table tennis table but apart from that it lacks comfy furniture and color. Overall, it is one of the better dorms for freshmen. "
+    },
+    {
+        "id": 2,
+        "dorm": "Metcalf Hall",
+        "rating": 1.5,
+        "comments":"I would rate Metcalf a 1.5 out of 5. This is because my freshman year the basement flooded and there were rats in the building at one point. Apart from the location, which is in the middle of campus, Metcalf has very few benefits to offer. The rooms are smaller than other dorms and it is one of the older dorms on campus. Overall, I would consider Metcalf to be one of less favorable freshman dorms to be assigned to."
+    },
+    {
+        "id": 3,
+        "dorm": "Harlston Hall",
+        "rating": 4,
+        "comments":"My Sophomore year I lived in Harleston. Honestly, I loved it! I thought the dorm had a great community and I met so many amazing people. The rooms were really well sized, even the doubles! I also got to live with my best friend because we could choose roommates our sophomore year. The location was also perfect for me since most of my classes were down hill. Overall, it was just a really nice dorm to live in."
+    },
+    {
+        "id": 4,
+        "dorm": "Miller Hall",
+        "rating": 4.5,
+        "comments":"Miller is definitely the best freshman dorm! It's really modern and colorful and it houses a lot of freshmen. I met so many of my closest friends in Miller! The rooms are well sized and it's located on the res quad. It’s honestly the perfect place to live in freshman year!"
+    },
+    {
+        "id": 5,
+        "dorm": "Sophia Gordon Hall",
+        "rating": 4.5,
+        "comments":"My junior year I lived in Sophia Gordan in a suite style dorm. It was just perfect. I got to live with my friends while also getting my own room. We also had a kitchen in the suite which was so nice because I was able to cook meals when I wanted. I honestly thought it was as good as living off campus."
+    },
+    {
+        "id": 6,
+        "dorm": "Tilton Hall",
+        "rating": 3,
+        "comments":"Tilton was a nice dorm to live in freshman year. It was located downhill and near Dewick, one of the dining halls. I don’t have any strong positive or negative feelings about the dorm. Overall, it was a nice dorm to live in."
+    },
+    {
+        "id": 7,
+        "dorm": "Lewis Hall",
+        "rating": 3.5,
+        "comments":"Honestly, I've heard a lot of bad things about Lewis Hall. It's really not as awful as a lot of people make it out to be. I was there for my sophomore year and I was in a triple. The room was really spacious, so I kinda felt like I had my own little space. It was close to a lot of dining halls and buildings too. It might be a hit or miss with the dorms but overall it was a pretty standard dorm."
+    },
+    {
+        "id": 8,
+        "dorm": "Latin Way",
+        "rating": 2,
+        "comments":"I would have given Latin Way a much higher rating if it weren't for all the fire alarms and noise complaints that happen all the time! The facilities are nice but we've had six fire alarms in two weeks, and you're almost guaranteed to not get a good night's sleep during the weekend. I did NOT have fun in Latin Way."
+    }    
+]
